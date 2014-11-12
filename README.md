@@ -11,4 +11,4 @@ The [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set), w
 
 Random forests is an ensemble-based method focus only on ensembles of decision trees. This method was championed by Leo Breiman and Adele Cutler, and combines the base principles of bagging with random feature selection to add additional diversity to the decision tree models. After the ensemble of trees (the forest) is generated, the model uses a vote to combine the trees predictions.
 
-Running **IrisPrediction** application available here: (http://vzaigrin.shinyapps.io/IrisPrediction)
+Running **IrisPrediction** application available here: http://vzaigrin.shinyapps.io/IrisPrediction
